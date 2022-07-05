@@ -1,0 +1,4 @@
+calon siswa mengisi pendaftaran
+calon siswa melakukan pembayaran
+admin bisa mengedit data pendaftar data siswa
+admin bisa mengedit data konfirmasi pembayarans

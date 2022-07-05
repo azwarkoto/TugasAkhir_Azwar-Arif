@@ -1,0 +1,4 @@
+satu siswa mengisi satu pendaftaran
+satu siswa melakukan satu pembayaran
+satu admin menginput satu siswa
+satu admin mengecek banyak pembayaran

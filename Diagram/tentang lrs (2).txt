@@ -1,0 +1,4 @@
+1 calon siswa mengisi pendaftaran
+1 calon siswa melakukan 1 pembayaran
+1 admin banyak data calon data siswa
+1 admin mengecek 1 data pembayaran
